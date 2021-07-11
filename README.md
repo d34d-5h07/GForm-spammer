@@ -16,7 +16,7 @@ MultiThreaded spammer working
 * [Narkhedesam](https://github.com/narkhedesam/Proxy-List-Scrapper)
 
 ### Result:
-- [How to find the links for the gform](
+- [How to find the links for the gform](https://drive.google.com/file/d/13Ci_-F3jZ9dusFpNjv9sserK96-_qDdb/view?usp=sharing)
 -  
 ![image](https://user-images.githubusercontent.com/58104187/125192918-8f4af680-e239-11eb-92eb-345ced901324.png)
 
