@@ -10,8 +10,10 @@ MultiThreaded spammer working
 - See their in data, in that fill some values and then see where they are, Replace them accordingly.
 
 ## Proxies:
-* clarketm(https://github.com/clarketm/proxy-list/edit/master/README.md)
-* speedX(https://github.com/TheSpeedX/PROXY-List)
+* [Clarketm](https://github.com/clarketm/proxy-list/edit/master/README.md)
+* [SpeedX](https://github.com/TheSpeedX/PROXY-List)
+* [ShiftyTR](https://github.com/ShiftyTR/Proxy-List)
+* [Narkhedesam](https://github.com/narkhedesam/Proxy-List-Scrapper)
 
 ### Result:
 - Demo response 
