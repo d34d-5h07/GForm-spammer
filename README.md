@@ -10,6 +10,7 @@ MultiThreaded spammer working
 - See their in data, in that fill some values and then see where they are, Replace them accordingly.
 
 ### Result:
+- Demo response 
 <br>
-![responces](https://user-images.githubusercontent.com/58104187/125192918-8f4af680-e239-11eb-92eb-345ced901324.png)
+![image](https://user-images.githubusercontent.com/58104187/125192918-8f4af680-e239-11eb-92eb-345ced901324.png)
 <br>
