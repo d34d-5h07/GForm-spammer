@@ -2,6 +2,7 @@
 MultiThreaded spammer
 
 - works perfectly even for image uploading
+- [Ways to protect against google form spamming](https://xfanatical.com/blog/3-ways-to-protect-google-forms-from-spamming/)
 
 ## Steps :
 ```
